@@ -18,7 +18,7 @@ email: &EMAIL "pmercurio01@hamline.edu"
 description:
   
 github_username: &GITHUB mercuri6
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 
 
@@ -45,7 +45,8 @@ footer:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 # Outputting
 permalink: /:categories/:title/
 paginate: 1 # amount of posts to show
