@@ -10,6 +10,7 @@ title: "Teaching"
 ## Past Courses: 
 
 ### St Olaf College
+
 - Modern Computational Mathematics | Math 242
 
 - Differential Equations | Math 230	
@@ -22,7 +23,8 @@ title: "Teaching"
 
 - Calculus I | Math 119/120	
 
-### Michigan State University                   							    
+### Michigan State University 
+
 - Survey of Calculus | Math 124	
 
 - Transitions in Math/Intro to Proofs | Math 299
