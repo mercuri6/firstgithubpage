@@ -6,12 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000" #"#44d7a8"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-   - label: "Download"
-     url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-#excerpt: 
+
 intro: 
   - excerpt: "Assistant professor of Computational Data Science/Math at Hamline University"
 feature_row:
@@ -38,9 +33,3 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-#{% include feature_row id="feature_row2" type="left" %}
-
-#{% include feature_row id="feature_row3" type="right" %}
-
-#{% include feature_row id="feature_row4" type="center" %}
