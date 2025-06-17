@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-   #- label: "Download"
-    # url: "https://github.com/mmistakes/minimal-mistakes/"
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+   - label: "Download"
+     url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: 
 intro: 
   - excerpt: "Assistant professor of Computational Data Science/Math at Hamline University"
