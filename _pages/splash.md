@@ -16,25 +16,23 @@ intro:
   - excerpt: "Assistant professor of Computational Data Science/Math at Hamline University"
 feature_row:
   - image_path: assets/images/teachingimg.jpg
-    #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Teaching"
     title: "Teaching"
     url: "/teaching"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-#     alt: "placeholder image 2"
-#     title: "Placeholder 2"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#     url: "#test-link"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/researchimg.jpg
     image_caption: "Image courtesy of [Public Domain Pictures](https://publicdomainpictures.net/)"
     title: "Research"
-    alt: "Research" #"Current and past research projects and publications"
+    alt: "Research" 
     url: "/research"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    
 
 
 {% include feature_row id="intro" type="center" %}
