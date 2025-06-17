@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: 
 intro: 
-  - excerpt: 'Assistant professor of Computational Data Science/Math at Hamline University'
+  - excerpt: "Assistant professor of Computational Data Science/Math at Hamline University"
 feature_row:
   - image_path: assets/images/teachingimg.jpg
     #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
