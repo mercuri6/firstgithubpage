@@ -11,7 +11,7 @@ header:
    - label: "Download"
      url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: 
+#excerpt: 
 intro: 
   - excerpt: "Assistant professor of Computational Data Science/Math at Hamline University"
 feature_row:
