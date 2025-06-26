@@ -18,8 +18,9 @@ email: &EMAIL "pmercurio01@hamline.edu"
 description:
   
 github_username: &GITHUB mercuri6
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: mint
+search: false
+
 
 
 author:
@@ -45,11 +46,12 @@ footer:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 # Outputting
 permalink: /:categories/:title/
-paginate: 1 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 1 # amount of posts to show
+#paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -83,6 +85,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+ 
+
 
 category_archive:
   type: liquid
